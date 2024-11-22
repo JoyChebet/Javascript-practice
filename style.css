@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+}
+#mytext{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family:monospace;
+    font-size: 13px;
+    font-weight: 300px;
+}
+#mytext2{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family:monospace;
+    font-size: 13px;
+    font-weight: 300px;
+}
+/* #mytext:hover{
+    text-decoration: ;
+} */
+#mysubmit{
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 120px;
+    background-color: aqua;
+}
+#mysubmit:hover{
+    background-color: hotpink;
+}
